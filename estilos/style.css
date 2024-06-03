@@ -47,11 +47,13 @@ section#redes-sociais {
 }
 
 section#redes-sociais img {
+    display: block;
     width: 50px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
-    transition-duration: .5s;
+    box-sizing: border-box;
+    transition-duration: 0.3s;
     opacity: 80%;
 }
 
