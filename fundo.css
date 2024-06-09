@@ -30,7 +30,7 @@ body {
     margin:  0 4px;
     border-radius: 50%;
     box-shadow: 0 0 0 10px #e5ff0044, 0 0 50px #e5ff00, 0 0 100px #e5ff00;
-    animation: animar calc(100s / var(--i)) linear infinite;
+    animation: animar calc(115s / var(--i)) linear infinite;
 }
 
 @keyframes animar {
