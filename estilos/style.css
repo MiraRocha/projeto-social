@@ -13,9 +13,10 @@ html, body {
 }
 
 body {
-    background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
+    background-position: 100%; 
     background-size: cover;
     background-attachment: fixed;
+
 }
 
 main {
@@ -42,6 +43,7 @@ iframe#tela {
     height: 471px;
 }
 
+
 section#redes-sociais {
     float: right;
 }
@@ -64,3 +66,5 @@ section#redes-sociais img:hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.600)
 
 }
+
+
